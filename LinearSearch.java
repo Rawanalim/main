@@ -1,8 +1,8 @@
 package linearsearch;
 
 //----------------------------------------------------------------------------------------------
-//Rawan Qader
-//ID: 445013919
+//User Name: RawanQader
+//Id 445013919
 
 // Java code for linearly search x in arr[]. If x
 
@@ -48,7 +48,7 @@ class LinearSearch {
 
                         int n = arr.length;
 
-                        int x = 4;
+                        int x = 5;
 
                         int index = search(arr, n, x);
 
